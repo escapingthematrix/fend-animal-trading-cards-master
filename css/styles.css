@@ -1,0 +1,44 @@
+/* add your CSS here */
+.card {
+    width: 500px;
+    box-shadow: 8px 5px 2px #d3d3d3;
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+}
+
+div {
+    display: block;
+    padding: 10px;
+}
+
+.top {
+    height: 55%;
+    padding-left: 0px; 
+}
+
+.photo {
+    width: 300px;
+    height: 200px;
+    border: 1px solid #000000;
+}
+
+.skunk {
+    box-sizing: border-box;
+    border: 1px solid #d3d3d3;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: inherit;
+    padding-left: 0;
+}
+
+p.fact {
+    font-style: italic;
+}
+
+li span {
+    font-weight: bold;
+}
